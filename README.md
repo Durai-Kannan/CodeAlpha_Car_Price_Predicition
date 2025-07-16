@@ -62,5 +62,6 @@ This app is a user-friendly tool designed to predict the selling price of a car 
 ### Installation  
 1. Clone the repository:  
    ```bash
-   [git clone https://github.com/Durai-Kannan/CodeAlpha_Car_Price_Predicition.git]
+   git clone https://github.com/Durai-Kannan/CodeAlpha_Car_Price_Predicition.git
    cd CodeAlpha_Car_Price_Predicition
+   pip install -r requirements.txt
